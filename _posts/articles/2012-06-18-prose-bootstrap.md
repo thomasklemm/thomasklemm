@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Introducing Prose Bootstrap
-abstract: Prose Bootstrap is a minimal template intendet to get you started with Jekyll.
-author_twitter: _mql
-author: Michael Aufreiter
+title: Thomas Klemm - Founder
+abstract: Hey, I'm Thomas Klemm. I founded Knight.io, the awesome web developer's wiki for finding good tools for his project.
+author_twitter: thomasjklemm
+author: Thomas Klemm
 categories:
 - articles
 published: true
