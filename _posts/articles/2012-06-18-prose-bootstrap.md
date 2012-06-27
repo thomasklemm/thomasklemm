@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Thomas Klemm - Igniter
-abstract: I founded Knight.io and I'm always curious about new and interesting projects. Pitch me!
+abstract: I founded Knight.io and I'm always curious about new and interesting projects. <br /> Pitch me!
 author_twitter: thomasjklemm
 author: Thomas Klemm
 categories:
