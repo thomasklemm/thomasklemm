@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Thomas Klemm - Founder
-abstract: Hey, I'm Thomas Klemm. I founded Knight.io, the awesome web developer's wiki for finding good tools for his project.
+title: Thomas Klemm - Igniter
+abstract: I founded Knight.io and I'm always curious about new and interesting projects. Pitch me!
 author_twitter: thomasjklemm
 author: Thomas Klemm
 categories:
